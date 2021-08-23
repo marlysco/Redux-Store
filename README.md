@@ -5,17 +5,14 @@ The task for this project was to refactor an e-commerce platform so that it uses
 
  This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
- <img src="./src/homeTop/"></img>
- 
  ## Table of Contents
 - [Installation](#Installation)
 - [Contributing](#Contributing)
 - [Licenses](#Licenses)
 - [Questions](#Questions)
 
-
  ## Installation
-You can access this application using the following link: 
+You can access this application using the following link: https://floating-atoll-03134.herokuapp.com/
 
 This app has been deployed using Heroku.
 
